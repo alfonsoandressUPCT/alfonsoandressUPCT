@@ -13,6 +13,4 @@ afiliación, SEO y desarrollo de contenido.
 
 En mi perfil encontrarás trabajos y prácticas relacionadas ocn el estudio de mi carrera. Desde proyectos hasta prácticas.
 
----
-
-📩 **Contacto:**  
+## 📩 **Contacto**
