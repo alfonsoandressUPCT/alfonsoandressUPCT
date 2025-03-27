@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, mi nombre es Alfonso Andrés👋 
 
-<!--
-**alfonsoandressUPCT/alfonsoandressUPCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Futbolísta Profesional y Estudiante de Ciencia e Ingeniería de Datos**
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encuentro en un camino de constante aprendizaje, combinando mi pasión por el fútbol con mis estudios en 
+**Ciencia de Datos**. Busco aplicar mis conocimientos en **análisis de datos y machine learning** para
+desarrollar soluciones innovadoras. Además, me interesa la **monetización digital** mediante estrategias como 
+afiliación, SEO y desarrollo de contenido.
+
+## 📂 Proyectos
+
+En mi perfil encontrarás trabajos y prácticas relacionadas ocn el estudio de mi carrera. Desde proyectos hasta prácticas.
+
+---
+
+📩 **Contacto:**  
